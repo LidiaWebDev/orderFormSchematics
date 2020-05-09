@@ -22,7 +22,7 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 
 Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
 
-## Application contains the schematics on order-wizard for the first test applicaiton that uses an npm to use the schematics.
+## Application contains the schematics on order-wizard for the first test application that uses npm to u run the schematics.
 
 
 ## Further help
